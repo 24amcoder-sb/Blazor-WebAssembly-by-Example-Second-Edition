@@ -1,0 +1,250 @@
+repo_name: 24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition
+report_id: c0e05d46ae3672855c00b855271b225d
+repo_type: Public
+timestamp: '2023-11-16T04:20:44+00:00'
+requested_by: ToiWright
+provider: github
+branch: main
+detected_tools_count: 19
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-12-13 05:16:28.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: Chapter02/Demo/Demo/Demo.csproj
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Shared/ExpenseTracker.Shared.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2023-02-07 18:35:27.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: Chapter02/Demo/Demo/Demo.csproj
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Shared/ExpenseTracker.Shared.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2023-02-07 18:35:27.000000000 Z
+- name: Entity Framework
+  description: An object-relational mapper that enables .NET developers to work with
+    relational data
+  website_url: https://docs.microsoft.com/en-us/aspnet/entity-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-12-13 05:16:28.000000000 Z
+- name: Entity Framework Core
+  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  website_url: https://docs.microsoft.com/en-us/ef/core/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-12-13 05:16:28.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-12-13 05:16:28.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-12-13 05:16:28.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source: Chapter02/Demo/Demo.sln
+  last_updated_by: Toi B Wright
+  last_updated_on: 2023-02-07 18:35:27.000000000 Z
+- name: DocumentFormat.OpenXml
+  description: The Open XML SDK provides tools for working with Office Word, Excel,
+    and PowerPoint documents
+  package_url: https://www.nuget.org/DocumentFormat.OpenXml
+  version: 2.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13044/default_79c0a8d9add56bcf90325ea0ad034f66b38d8dd7.png
+  detection_source_url: Chapter09/Demo_09/Demo_09/Demo_09.csproj
+  detection_source: Chapter09/ExcelReader/ExcelReader/ExcelReader.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-11-14 03:20:24.000000000 Z
+- name: Microsoft.AspNetCore.Authorization
+  description: ASP.NET Core authorization classes
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authorization
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13034/default_1075538f3811f68c42abfdf5ebcf152058e4076d.png
+  detection_source_url: Chapter10/ClaimsViewer/ClaimsViewer/ClaimsViewer.csproj
+  detection_source: Chapter10/ClaimsViewer/ClaimsViewer/ClaimsViewer.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-12-05 04:22:46.000000000 Z
+- name: Microsoft.AspNetCore.Components.Web
+  description: Support for rendering ASP.NET Core components for browsers
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Components.Web
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13128/default_59c6e81d6f4034b10a10bd52ec71c48c8d66e4eb.png
+  detection_source_url: Chapter04/ModalDialog/MyComponents/MyComponents.csproj
+  detection_source: Chapter04/ModalDialog/MyComponents/MyComponents.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-11-09 01:36:10.000000000 Z
+- name: Microsoft.EntityFrameworkCore.SqlServer
+  description: Microsoft SQL Server database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-12-13 05:16:28.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Tools
+  description: Entity Framework Core Tools for the NuGet Package Manager Console in
+    Visual Studio
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Tools
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-12-13 05:16:28.000000000 Z
+- name: Microsoft.Extensions.Http
+  description: The HttpClient factory is a pattern for configuring and retrieving
+    named HttpClients in a composable way
+  package_url: https://www.nuget.org/Microsoft.Extensions.Http
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12940/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: Chapter11/TaskManager/TaskManager/Client/TaskManager.Client.csproj
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Client/ExpenseTracker.Client.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-12-13 05:16:28.000000000 Z
+- name: Microsoft.VisualStudio.Web.CodeGeneration.Design
+  description: Code Generation tool for ASP.NET Core
+  package_url: https://www.nuget.org/Microsoft.VisualStudio.Web.CodeGeneration.Design
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13477/default_eb78542773998d1500f13778aa04738ef49376bd.png
+  detection_source_url: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  last_updated_by: Toi B Wright
+  last_updated_on: 2022-12-13 05:16:28.000000000 Z
