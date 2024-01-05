@@ -1,7 +1,8 @@
 repo_name: 24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition
 report_id: c0e05d46ae3672855c00b855271b225d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T04:20:44+00:00'
+timestamp: '2024-01-05T08:39:35+00:00'
 requested_by: ToiWright
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -46,7 +50,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-13 05:16:28.000000000 Z
 - name: ".NET Core"
@@ -60,8 +65,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: Chapter02/Demo/Demo/Demo.csproj
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Shared/ExpenseTracker.Shared.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter02/Demo/Demo/Demo.csproj
+  detection_source: Chapter02/Demo/Demo/Demo.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2023-02-07 18:35:27.000000000 Z
 - name: ASP.NET Core
@@ -75,8 +80,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: Chapter02/Demo/Demo/Demo.csproj
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Shared/ExpenseTracker.Shared.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter02/Demo/Demo/Demo.csproj
+  detection_source: Chapter02/Demo/Demo/Demo.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2023-02-07 18:35:27.000000000 Z
 - name: Entity Framework
@@ -89,7 +94,8 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-13 05:16:28.000000000 Z
 - name: Entity Framework Core
@@ -101,7 +107,8 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-13 05:16:28.000000000 Z
 - name: Microsoft SQL Server
@@ -112,7 +119,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1027/sql_server.png
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-13 05:16:28.000000000 Z
 - name: Git
@@ -123,6 +131,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -132,7 +141,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-13 05:16:28.000000000 Z
 - name: Visual Studio
@@ -144,6 +154,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter02/Demo/Demo.sln
   detection_source: Chapter02/Demo/Demo.sln
   last_updated_by: Toi B Wright
   last_updated_on: 2023-02-07 18:35:27.000000000 Z
@@ -158,8 +169,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13044/default_79c0a8d9add56bcf90325ea0ad034f66b38d8dd7.png
-  detection_source_url: Chapter09/Demo_09/Demo_09/Demo_09.csproj
-  detection_source: Chapter09/ExcelReader/ExcelReader/ExcelReader.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter09/Demo_09/Demo_09/Demo_09.csproj
+  detection_source: Chapter09/Demo_09/Demo_09/Demo_09.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-11-14 03:20:24.000000000 Z
 - name: Microsoft.AspNetCore.Authorization
@@ -172,7 +183,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13034/default_1075538f3811f68c42abfdf5ebcf152058e4076d.png
-  detection_source_url: Chapter10/ClaimsViewer/ClaimsViewer/ClaimsViewer.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter10/ClaimsViewer/ClaimsViewer/ClaimsViewer.csproj
   detection_source: Chapter10/ClaimsViewer/ClaimsViewer/ClaimsViewer.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-05 04:22:46.000000000 Z
@@ -186,7 +197,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13128/default_59c6e81d6f4034b10a10bd52ec71c48c8d66e4eb.png
-  detection_source_url: Chapter04/ModalDialog/MyComponents/MyComponents.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter04/ModalDialog/MyComponents/MyComponents.csproj
   detection_source: Chapter04/ModalDialog/MyComponents/MyComponents.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-11-09 01:36:10.000000000 Z
@@ -200,8 +211,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-13 05:16:28.000000000 Z
 - name: Microsoft.EntityFrameworkCore.Tools
@@ -215,8 +226,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-13 05:16:28.000000000 Z
 - name: Microsoft.Extensions.Http
@@ -230,8 +241,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12940/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
-  detection_source_url: Chapter11/TaskManager/TaskManager/Client/TaskManager.Client.csproj
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Client/ExpenseTracker.Client.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter11/TaskManager/TaskManager/Client/TaskManager.Client.csproj
+  detection_source: Chapter11/TaskManager/TaskManager/Client/TaskManager.Client.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-13 05:16:28.000000000 Z
 - name: Microsoft.VisualStudio.Web.CodeGeneration.Design
@@ -244,7 +255,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13477/default_eb78542773998d1500f13778aa04738ef49376bd.png
-  detection_source_url: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
-  detection_source: Chapter12/ExpenseTracker/ExpenseTracker/Server/ExpenseTracker.Server.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition/blob/main/Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
+  detection_source: Chapter11/TaskManager/TaskManager/Server/TaskManager.Server.csproj
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-13 05:16:28.000000000 Z
