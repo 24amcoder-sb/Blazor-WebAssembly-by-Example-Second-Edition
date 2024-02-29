@@ -2,7 +2,7 @@ repo_name: 24amcoder-sb/Blazor-WebAssembly-by-Example-Second-Edition
 report_id: c0e05d46ae3672855c00b855271b225d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:39:35+00:00'
+timestamp: '2024-02-29T18:47:34+00:00'
 requested_by: ToiWright
 provider: github
 branch: main
@@ -99,7 +99,7 @@ tools:
   last_updated_by: Toi B Wright
   last_updated_on: 2022-12-13 05:16:28.000000000 Z
 - name: Entity Framework Core
-  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  description: Lightweight and cross-platform version of the popular Entity Framework
   website_url: https://docs.microsoft.com/en-us/ef/core/
   license: MIT
   open_source: true
